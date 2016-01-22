@@ -9,7 +9,6 @@ var path = require('path');
 var bodyParser = require('body-parser');
 var morgan = require('morgan');
 var mongoose = require('mongoose');
-var passport = require('passport');
 var request = require('request');
 
 // App Modules
